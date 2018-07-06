@@ -5,7 +5,7 @@ To help answer your Data Science question, the app looks though a database of on
 
 When you query the app with a question, InsightQ&A search for the most similar questions asked in the past by some Insight Fellow and retrieve the associated threads for you, hopefully helping you out with your problem.
 
-InsightQ&A also allows you to navigate the most important data science topics to search for a thread that may interest you.
+InsightQ&A allows you also to navigate the most important data science topics to search for a thread that may interest you.
 
 To reach its goal, the app uses a dedicated word2vec word embedding to browse through the online database, and topic modelling techniques to organize the search by topic.
 
