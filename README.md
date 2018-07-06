@@ -11,4 +11,4 @@ To make all of this possible, the app uses a dedicated word2vec word embedding t
 
 This repository contains the files which are necessary to build the web app, and two excerpts of the code that is used to build the machine learning engine on which InsightQ&A is based.
 
-If you want to know more about what really happens under the hood, read <a href="https://dlvp.github.io/ML-InsightQA/">this blogpost</a> on my blog.
+<!--- If you want to know more about what really happens under the hood, read <a href="https://dlvp.github.io/ML-InsightQA/">this blogpost</a> on my blog. --->
