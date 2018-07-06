@@ -1,7 +1,7 @@
 # InsightQ&A
 Insight Q&A is a web app to search for Data Science related threads in a corpus of online conversations. You can play with it at <a href="http://insightqa.xyz/">insightqa.xyz</a>
 
-To help you answer your Data Science questions, the app searches though a database of online conversations shared by Insight (<a href="https://www.insightdatascience.com/">insightdatascience.com</a>) Alumni on a dedicated Slack channel. </br>
+To help you answer your Data Science questions, the app searches though a database of online messages shared by Insight (<a href="https://www.insightdatascience.com/">insightdatascience.com</a>) Alumni on a dedicated Slack channel. </br>
 
 When you query the app with a question, InsightQ&A looks for the most similar questions asked in the past by some Insight Fellow and retrieve the associated threads for you, hopefully helping you out with your problem.
 
