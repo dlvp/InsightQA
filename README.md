@@ -7,6 +7,8 @@ When you query the app with a question, InsightQ&A search for the most similar q
 
 InsightQ&A also allows you to navigate the most important data science topics to search for a thread that may interest you.
 
-To reach its goal, the app uses a dedicated word2vec word embedding to browe through the online database, and topic modelling techniques to organize the search by topic.
+To reach its goal, the app uses a dedicated word2vec word embedding to browse through the online database, and topic modelling techniques to organize the search by topic.
 
-This repository contains
+This repository contains the files which are necessary to build the webapp, and two excerpts of the code that is used to build the machine learning models on which InsightQ&A is based.
+
+If you want to know more about what really happens under the hood, read <a href="http://insightqa.xyz/">this blogpost</a> on my blog.
